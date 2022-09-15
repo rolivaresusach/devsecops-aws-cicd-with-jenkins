@@ -1,2 +1,3 @@
 #!/bin/bash
-python3.7 /home/ec2-user/dist/scripts/stop_flask.py
+echo 'Nuevo script stop_flask'
+python3.7 /web/scripts/stop_flask.py

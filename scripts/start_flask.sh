@@ -1,3 +1,4 @@
 #!/bin/bash
-python3.7 /home/ec2-user/dist/web.py > /dev/null 2>&1 & 
+echo 'Nuevo script start_flask'
+python3.7 /web/web.py > /dev/null 2>&1 & 
 
