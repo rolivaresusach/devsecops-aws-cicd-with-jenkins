@@ -1,2 +1,2 @@
 #!/bin/bash
-python3.7 /web/scripts/stop_flask.py
+python3 /web/scripts/stop_flask.py
