@@ -8,7 +8,7 @@ hooks:
   AfterInstall:
     - location: scripts/mkdir.sh
       timeout: 300
-      runas: root
+      #runas: root
   ApplicationStart:
     - location: scripts/start_flask.sh
       timeout: 300
