@@ -1,1 +1,2 @@
-python /web/web.py > /dev/null 2>&1 &
+#!/bin/bash
+python3 /web/web.py > /dev/null 2>&1 & 
